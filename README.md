@@ -26,6 +26,10 @@ cd ~/muktek/assignments/rest-countries-api-assignment
 
 3. In `index.html` use the `<script>` tag to link to the superagent library and link to your javascrpt file (`./js/app.js`). Make sure you link to the superagent library first!.
 
+
+You can find a link to the file  here:
+https://cdnjs.cloudflare.com/ajax/libs/superagent/3.6.0/superagent.min.js
+
 4. Make sure the superagent library is linked properly.
 ```js
 console.log(superagent)
@@ -51,4 +55,4 @@ const request = superagent
 </div>
 ```
 
-4. Put the string on the DOM inside the `<div class="countries-container">` element 
+4. Put the string on the DOM inside the `<div class="countries-container">` element
