@@ -24,10 +24,11 @@ cd ~/muktek/assignments/rest-countries-api-assignment
 
 2. Download assignment zip file in folder and unzip it.
 
-3. In `index.html` use the `<script>` tag to link to the superagent library and link to your javascrpt file (`./js/app.js`). Make sure you link to the superagent library first!.
+3. In `index.html` use the `<script>` tag to link to the superagent library and link to your javascrpt file (`./js/app.js`).
 
+Make sure you load the `<script>` with superagent the `<script>` with `app.js`!.
 
-You can find a link to the file  here:
+You can find a link to the superagent library here:
 https://cdnjs.cloudflare.com/ajax/libs/superagent/3.6.0/superagent.min.js
 
 4. Make sure the superagent library is linked properly.
